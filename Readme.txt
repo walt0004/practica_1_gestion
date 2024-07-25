@@ -6,4 +6,5 @@ Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
 
-modificacion desde LOCAL VISUAL STUDIO
+
+modificacion desde GIT HUB
